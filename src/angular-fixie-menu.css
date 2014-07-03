@@ -1,0 +1,7 @@
+.fixie{
+    position: fixed;
+    top: 20px;
+    /* CHANGE THIS: fixed elements cannot inherit width, so it must the specified for each menu. */
+    /* It may be best to specify the width in each menu's class, instead of globally here */
+    width: 132px;
+}
