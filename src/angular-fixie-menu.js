@@ -1,5 +1,5 @@
 //Non namespaced alias
-angular.module('angular-fixie-menu', ['8bitsquid.fixieMenu']);
+angular.module('fixieMenu', ['8bitsquid.fixieMenu']);
 
 angular.module('8bitsquid.fixieMenu', [])
 
